@@ -1,0 +1,1 @@
+2018/01/14 15:21:35 [error] 6#6: *6 connect() failed (113: Host is unreachable) while connecting to upstream, client: 172.18.0.1, server: ${nginx_host}, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.4:9000", host: "dev.symfony-test.fr"
